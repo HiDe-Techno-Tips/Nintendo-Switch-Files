@@ -1,8 +1,8 @@
 {
   "firmware": {
-    "ver": "13.0.0",
-    "url": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2013.0.0.zip",
-    "size": "335339208"
+    "ver": "13.1.0",
+    "url": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2013.1.0.zip",
+    "size": "335754035"
   },
   "keys": {
     "url": "https://raw.githubusercontent.com/HiDe-Techno-Tips/Nintendo-Switch-Files/master/prod.keys"
